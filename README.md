@@ -1,6 +1,8 @@
-## Your Name
+## Kevin Docherty
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+In the spirit joie de vivre I like to continually challenge myself, whether professionally, intellectually, physically, or in simply tackling something new. My mantra is "to live to the max, continually challenge yourself to be the best you can be." Intellectually curious, I have studied engineering, geology, and geophysics, and also have a keen interest in economics, finance, and the markets.
+
+Educational achievements include post-graduate qualifications in engineering and geophysics, as well a selection of MOOCs in mathematics, programming, data science, and machine learning. I'm excited and motivated by the intellectual challenge of solving technical problems, as well as the possibilities offered by working as a developer.
 
 ## Projects
 
@@ -11,7 +13,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
+**Marine Geophysicist** (From Oct 2011)  
 _Your job title_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.

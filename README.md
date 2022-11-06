@@ -8,72 +8,64 @@ Educational achievements include post-graduate qualifications in engineering and
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Leeds MSc project**              | Near-surface ground imaging via electricial resistivity measurement | Stitched various software tools together using Python|
+| **Floppy disk controller project** | An attempt to use standard PC floppy disk drives to read non-standard disk formats | C           |
 
 ## Work Experience
 
-**Marine Geophysicist** (From Oct 2011)  
-_Your job title_
+**Freelance Marine Geophysicist** - multiple employers (From Oct 2011)  
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Wide range of experience including:
+- Marine geohazard surveys, specialising in side-scan sonar, sub-bottom profiling, and magnetic / gradiometeric investigations
+- Visual & acoustic ocean-bottom asset inspections 
+- FEED (front end engineering and design) study for TurkStream
+- Dimensional control surveys onboard North Sea oil platforms.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Exposure to Python and Excel VBA 
 
-- Any experience relevent to software development
+
+**BBC Technology / Siemens Business Services / Logicalis** (2001 - 2008)  
+Capacity Planner / Network Management Specialist
+
+Experience of 
+- Deployment, administration, and customisation of SNMP-based network management systems, running on Solaris and Windows
+- Analysis of server and network utilisation using bespoke scripts and Excel VBA programs
+- Maintaining and upgrading network management systems, as well as training end-users
+- Led a project to upgrade and rationalise network-management infrastructure
+- Played a central role in a project to evaluate network management applications.
+
+- Exposure to unix shell scripting and Excel VBA
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+**Analytical & Creative**
 
--STAR
--What was the situation/task? (ST)
+An aptitude for solving technical challenges, via logical process combined with lateral leaps of insight. 
 
--How was the skill used?
+I have successfully applied this approach to multiple projects with several employers, as well as in successfully tackling various courses / MOOCs.
 
--What did you do? (action)
+**Numerate**
 
--What was the result?
+A natural aptitude and facility with numbers, applied in every role, but especially in my role as Capacity Planner at the BBC. During COVID lockdown, I also completed a MOOC in Mathematics for Machine Learning with Imperial College London.
 
+**Presentational**
 
-#### This Skill
+I developed skills of addressing an audience / public speaking during a stint of teaching physics in Reading and Basingstoke secondary schools.
 
-- Experience
-- Achievements
-- Evidence (STAR)
+**Reporting**
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+A natural facility with the written word, developed into strong reporting and presentational skills during various industry roles and various academic courses.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (Nov 2022 - Feb 2023)
+- Developer bootcamp offering exposure to Ruby, Git, TDD via RSpec, OOP, and other technologies.
 
-#### Your University / College (start_date to end_date)
+#### University of Leeds (Oct 2010 to Oct 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- MSc Exploration Geophysics.
+- Investigation of the Earth's interior via acoustic (seismic), magnetic, and gravitational methods.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+A commitment to health and wellbeing and a keen gym-goer, but for sheer joy water-sports (water-ski, surf, swim) take some beating!
